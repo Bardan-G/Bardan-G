@@ -27,8 +27,8 @@
 ---
 
 ### 📈 GitHub Stats
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=dracula)
+![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?Bardan-g=yourgithubusername&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Bardan-g=yourgithubusername&layout=compact&theme=dracula)
 
 ---
 
@@ -41,7 +41,7 @@
 ---
 
 ### 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/BardanGNeupane)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/bardan-g-neupane)  
 📧 neupanebardang@example.com  
 
 
