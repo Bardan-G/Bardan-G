@@ -28,7 +28,7 @@
 
 ### 📈 GitHub Stats
 ![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bardan-g&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bardan-g&layout=compact&theme=dracula)
 
 ---
 
