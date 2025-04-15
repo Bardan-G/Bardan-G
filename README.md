@@ -27,8 +27,10 @@
 ---
 
 ### 📈 GitHub Stats
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bardan-g&show_icons=true&theme=dracula)
+![Bardan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bardan-g&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bardan-g&layout=compact&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Bardan-g&theme=dracula&hide_border=true)
+
 
 ---
 
