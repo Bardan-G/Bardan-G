@@ -1,24 +1,50 @@
-## Hi, I'm Bardan G Neupane.
+### 👋 Hello World, I'm Bardan G Neupane 
 
-A passionate full-stack developer in the making<br/>  
-Studying BSc (Hons) in IIC in Nepal <br/> 
-I'm building real-world projects, learning cloud, databases, and integrating AI into web development<br/>
+💻 I'm a passionate Full-Stack Dev Student from Nepal  
+🚀 Currently mastering JavaScript, React, Node.js, and AI integration  
+🎯 Dreaming of building my own dev empire and freelancing in style  
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BardanGNeupane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neupanebardang@gmail.com) 
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bardan-G&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bardan-G&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bardan-G&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🚀 What I’m Working On:
+- ⚙️ Building real-world full-stack apps (e.g., Furniture Web App)
+- 🧠 Learning AI/ML & Data Analysis to combine with web projects
+- 🌐 Creating modern UIs with HTML, CSS, JS, and React
+- 🔌 Exploring MongoDB, Firebase, and Express
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bardan-G&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+### 🧠 Skills & Tools
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bardan-G&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📈 GitHub Stats
+![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=dracula)
+
+---
+
+### 🌱 Currently Learning
+- 📚 Full Stack Development (React, Node.js)
+- 📊 Data Analysis with Python + Pandas
+- 🤖 Machine Learning & AI Basics
+- ☁️ Firebase & Cloud Hosting
+
+---
+
+### 📫 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/BardanGNeupane)  
+📧 neupanebardang@example.com  
+
+
+---
+
+> 💬 “I don't just code—I create.” ✨
