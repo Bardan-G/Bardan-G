@@ -44,7 +44,7 @@
 
 ### 📫 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/bardan-g-neupane)  
-![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white) [neupanebardang@gmail.com](mailto:neupanebardang@gmail.com)
+![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)[(mailto:neupanebardang@gmail.com)]
   
 
 
