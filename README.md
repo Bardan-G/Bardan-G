@@ -55,3 +55,5 @@
 ---
 
 > 💬 “I don't just code—I create.” ✨
+
+![GitHub Metrics](./metrics.svg)
